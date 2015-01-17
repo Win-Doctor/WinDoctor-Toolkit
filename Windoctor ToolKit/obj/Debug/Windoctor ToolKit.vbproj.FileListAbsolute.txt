@@ -1,0 +1,10 @@
+C:\Users\Utente\Desktop\Windoctor ToolKit\Windoctor ToolKit\Windoctor ToolKit\bin\Debug\Windoctor ToolKit.exe.config
+C:\Users\Utente\Desktop\Windoctor ToolKit\Windoctor ToolKit\Windoctor ToolKit\bin\Debug\Windoctor ToolKit.exe
+C:\Users\Utente\Desktop\Windoctor ToolKit\Windoctor ToolKit\Windoctor ToolKit\bin\Debug\Windoctor ToolKit.pdb
+C:\Users\Utente\Desktop\Windoctor ToolKit\Windoctor ToolKit\Windoctor ToolKit\bin\Debug\Windoctor ToolKit.xml
+C:\Users\Utente\Desktop\Windoctor ToolKit\Windoctor ToolKit\Windoctor ToolKit\obj\Debug\Windoctor_ToolKit.Form1.resources
+C:\Users\Utente\Desktop\Windoctor ToolKit\Windoctor ToolKit\Windoctor ToolKit\obj\Debug\Windoctor_ToolKit.Resources.resources
+C:\Users\Utente\Desktop\Windoctor ToolKit\Windoctor ToolKit\Windoctor ToolKit\obj\Debug\Windoctor ToolKit.vbproj.GenerateResource.Cache
+C:\Users\Utente\Desktop\Windoctor ToolKit\Windoctor ToolKit\Windoctor ToolKit\obj\Debug\Windoctor ToolKit.exe
+C:\Users\Utente\Desktop\Windoctor ToolKit\Windoctor ToolKit\Windoctor ToolKit\obj\Debug\Windoctor ToolKit.xml
+C:\Users\Utente\Desktop\Windoctor ToolKit\Windoctor ToolKit\Windoctor ToolKit\obj\Debug\Windoctor ToolKit.pdb
